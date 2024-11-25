@@ -1,2 +1,2 @@
 # Mini_Project
-Coal Guard Safety Monitoring System Using IoT
+SanitAI:INTELLIGENT HYGIENE DETECTION WITH AUTOMATED REPORTING
